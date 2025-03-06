@@ -1,0 +1,6 @@
+// Importing partials for layout, variables, mixins, etc.
+
+@import './_variables';    // Variables (colors, fonts, etc.)
+@import './_base';       // Base styles (e.g., reset, typography, etc.)
+@import './_mixins';       // Reusable mixins
+@import './_layout';       // Layout-related styles (flex, grid, etc.)
