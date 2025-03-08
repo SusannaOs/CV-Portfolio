@@ -12,7 +12,6 @@ This is my personal portfolio website built with React. It showcases my projects
 
 ```
 git clone https://github.com/SusannaOs/CV-Portfolio.git
-cd portfolio
 npm install
 npm start
 ```
@@ -20,6 +19,7 @@ npm start
 ## Tech Stack???
 
 Mention the tools used (React, Tailwind CSS, Framer Motion, etc.).
+React Router
 
 ## Future Improvements
 
